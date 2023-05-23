@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2023-05-22T13:26:18.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="WEoD4Dweg3GUKLwtHx33" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="xrRFBCfU1CyiS_3OgIig">
+    <mxGraphModel dx="954" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-4" value="영상 목록" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="280" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="310" as="sourcePoint" />
+            <mxPoint x="190" y="310.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-3" value="&lt;font color=&quot;#ffffff&quot;&gt;영상 목록&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-10" value="영상&amp;nbsp;상세" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-11" value="&lt;font color=&quot;#ffffff&quot;&gt;영상 상세&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="390" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="B5-nmQ8yVb-cAeDa73AD-4" target="B5-nmQ8yVb-cAeDa73AD-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="310" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-31" value="클라이언트" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-32" value="&lt;font color=&quot;#ffffff&quot;&gt;컨트롤러&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="60" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5-nmQ8yVb-cAeDa73AD-33" value="뷰" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="442.5" width="80" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

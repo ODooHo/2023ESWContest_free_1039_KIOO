@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2023-05-09T02:56:22.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="9W4Y_eBKuKf4qyOQfBK3" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="gt-K7HGIyZ5NJXpEB9bZ">
+    <mxGraphModel dx="1083" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-2" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-3" value="&lt;font color=&quot;#ffffff&quot;&gt;컨트롤러&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="477.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-4" value="뷰" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-5" value="상품 등록 폼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-6" value="&lt;font color=&quot;#ffffff&quot;&gt;상품 등록 폼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-7" value="&lt;font color=&quot;#ffffff&quot;&gt;상품 저장&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="340" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-8" value="상품 상세" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="462" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-9" value="&lt;font color=&quot;#ffffff&quot;&gt;상품 상세&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="405" y="432" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.673;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zk1tNOxuzm02i-YVoyGm-2" target="zk1tNOxuzm02i-YVoyGm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1.GET /add&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-12" value="HTTP REQUEST / URI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-13" value="" style="endArrow=classic;html=1;entryX=0.682;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="zk1tNOxuzm02i-YVoyGm-5" target="zk1tNOxuzm02i-YVoyGm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-14" value="" style="endArrow=classic;html=1;curved=1;exitX=0.98;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zk1tNOxuzm02i-YVoyGm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2.POST /add&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-16" value="" style="endArrow=classic;html=1;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zk1tNOxuzm02i-YVoyGm-7" target="zk1tNOxuzm02i-YVoyGm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="370" as="sourcePoint" />
+            <mxPoint x="201" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Rediret /items/{id}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="zk1tNOxuzm02i-YVoyGm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk1tNOxuzm02i-YVoyGm-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. GET /items/{id}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="447.5" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
